@@ -155,6 +155,7 @@ const COUNTRY_CODE_TO_ID = {
     clearError();
 
     try {
+        console.log("API_URL =", API_URL);
       const response = await fetch(`${API_URL}/${id}`);
       if (!response.ok) {
         throw new Error(`No s'ha pogut carregar el conflicte ${id} (${response.status}).`);
