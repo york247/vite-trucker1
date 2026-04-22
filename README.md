@@ -30,7 +30,7 @@
 
 ****Diagrama****
 
-<img width="675" height="131" alt="image" src="https://github.com/user-attachments/assets/51f469a0-4ec5-4f8d-975d-4ed019a8181b" />
+<img width="1217" height="669" alt="image" src="https://github.com/user-attachments/assets/905982cd-0be8-4e7f-9cc8-f5cf16279196" />
 
 
 
